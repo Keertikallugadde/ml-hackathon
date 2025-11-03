@@ -1,6 +1,7 @@
 # Hangman Solver using HMM and Reinforcement Learning
 
 ## Project By
+- **Keerti Kallugadde** - PES1UG23AM142
 - **Kashish K S** – PES1UG23AM141  
 - **Khushi Kogganur** – PES1UG23AM145  
 - **Khushi Dev** – PES1UG23AM144  
